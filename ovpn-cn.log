@@ -1,0 +1,28 @@
+===========================
+Sun Feb 25 10:31:46 UTC 2024
+
+vpngate-cn.zip	https://raw.githubusercontent.com/thuhollow2/vpngate-cn/main/vpngate-cn.zip
+
+vpngate-cn1
+
+ipspeed_CN_58.246.148.250_tcp_992.ovpn
+origin_CN_114.116.2.18_tcp_443.ovpn
+vpngate_CN_58.246.148.250_tcp_992.ovpn
+
+vpngate-cn2
+
+ipspeed_CN_58.246.148.250_tcp_992.ovpn
+origin_CN_114.116.2.18_tcp_443.ovpn
+
+vpngate-cn3
+
+ipspeed_CN_58.246.148.250_tcp_992.ovpn
+origin_CN_114.116.2.18_tcp_443.ovpn
+
+vpngate-cn4
+
+origin_CN_114.116.2.18_tcp_443.ovpn
+
+vpngate-cn5
+
+origin_CN_114.116.2.18_tcp_443.ovpn
